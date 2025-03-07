@@ -1,0 +1,1 @@
+# Script for training AI models on political data
